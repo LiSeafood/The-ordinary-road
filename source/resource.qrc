@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="mainbg">images/main_bg.png</file>
+        <file alias="ex">images/R-A.png</file>
+        <file>images/run1.png</file>
+        <file>images/run2.png</file>
+        <file>images/run3.png</file>
+        <file>images/run4.png</file>
+        <file>images/run5.png</file>
+        <file alias="gamebg">images/gamebackground.png</file>
+        <file>images/jump1.png</file>
+        <file>images/jump2.png</file>
+        <file>images/btn1.png</file>
+        <file>images/btn2.png</file>
+        <file>images/startbutton.png</file>
+        <file>images/menu.png</file>
+        <file>images/failed .png</file>
+        <file>images/coin.png</file>
+        <file alias="gamebg1">images/gamebackground1.png</file>
+        <file>images/list.png</file>
+        <file>images/listitem.png</file>
+        <file>images/help.png</file>
+        <file>images/title.png</file>
+        <file>images/icon.ico</file>
+    </qresource>
+    <qresource prefix="/bgm">
+        <file>bgm/Adam Young - Southampton.mp3</file>
+        <file>bgm/Adam Young - Southampton (online-audio-converter.com).wav</file>
+    </qresource>
+</RCC>
